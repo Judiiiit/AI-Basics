@@ -1,4 +1,4 @@
-# LangChain Agent Basics
+# AI Basics
 
 A practical learning repository for building AI-powered Python applications, from basic LLM calls and tool-using agents to structured workflows, retrieval-augmented generation (RAG), observability and AI-assisted planning.
 
